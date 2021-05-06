@@ -2,7 +2,7 @@
 install.packages("circlize")
 #load circlize package
 library(circlize)
-chord = read.csv("bird.csv")
+chord = read.csv("17.csv")
 #viw your matrix data
 chord
 #basic chord diagram
